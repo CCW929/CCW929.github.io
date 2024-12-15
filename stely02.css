@@ -1,0 +1,11 @@
+h1,h2,h3,a{
+    color: aqua;
+}
+
+a:hover {
+    color: brown;
+}
+
+a::after{
+    content: "+";
+}

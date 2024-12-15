@@ -1,0 +1,28 @@
+h1{
+    color:red ;
+    font-size: 50px;
+}
+
+#title{
+color: purple;
+}
+
+
+
+.heading{
+    color:green;
+}
+
+.yellow{
+    color: yellow;
+}
+
+/* #在html輸入id */
+/* .在html輸入class */
+
+/* 標籤選擇器
+id 大於 class大於h1 */
+/* 同為class的時候，後者優先 */
+
+
+/* 進階選擇器 */
